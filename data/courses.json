@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
+    "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
+    "ratings": 4.5,
+    "enrolledStudents": 38288,
+    "instructor": "Colt Steele",
+    "about": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!.",
+    "totalHours": 20.5,
+    "lectures": 83,
+    "type": "Advance",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/y84LD0B6/IMG-20220425-084635-552.jpg",
+    "title": "The Complete Web Developer in 2022: Zero to Mastery",
+    "ratings": 4.7,
+    "enrolledStudents": 196930,
+    "instructor": "Andrei Neagoie",
+    "about": "Learn to code and become a Web Developer in 2022 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+    "totalHours": 38.5,
+    "lectures": 399,
+    "type": "All Levels",
+    "price": 13.99
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/1zx4h5pj/python-data-science.webp",
+    "title": "One Week of Data Science in Python - New 2022!",
+    "ratings": 4.7,
+    "enrolledStudents": 1220,
+    "instructor": "Dr. Ryan Ahmed",
+    "about": "Master Data Science Fundamentals Quickly & Efficiently in one week! Course is Designed for Busy People",
+    "totalHours": 13,
+    "lectures": 138,
+    "type": "Beginner",
+    "price": 13.99
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/K8Cf6Lph/programming-languages.jpg",
+    "title": "Computer Science 101 - Computers & Programming for Beginners",
+    "ratings": 4.5,
+    "enrolledStudents": 1021,
+    "instructor": "Timothy Meixner",
+    "about": "Understand the basic concepts behind Computers, Computer Science, Programming and Programming Languages",
+    "totalHours": 1,
+    "lectures": 36,
+    "type": "Beginner",
+    "price": 19.99
+  },
+  {
+    "id": 5,
+    "img": "https://i.postimg.cc/1zCmRm6S/sql-1615798112.jpg",
+    "title": "SQL: Data Analytics Applications in the Real World",
+    "ratings": 4.6,
+    "enrolledStudents": 279,
+    "instructor": "Data Civilisation",
+    "about": "Applying SQL / Data Analytics to real world scenarios, to see how it is leveraged by companiess",
+    "totalHours": 8.5,
+    "lectures": 22,
+    "type": "Intermediate",
+    "price": 13.99
+  },
+  {
+    "id": 6,
+    "img": "https://i.postimg.cc/h47dY6Wv/Android-New-For-Developers-1024x512-updated.png",
+    "title": "Learn Google Maps SDK for Android. And also Create Distance Tracker App for tracking users location from a background.",
+    "ratings": 4.9,
+    "enrolledStudents": 11817,
+    "instructor": "Stefan Jovanovic",
+    "about": "Applying SQL / Data Analytics to real world scenarios, to see how it is leveraged by companiess",
+    "totalHours": 7.5,
+    "lectures": 66,
+    "type": "Intermediate",
+    "price": 18.99
+  }
+]
