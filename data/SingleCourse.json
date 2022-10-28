@@ -28,6 +28,7 @@
       "Dozens of exercises, projects, and quizzes.",
       "One massive code-along project with nearly 20 different React components."
     ]
+   
   },
   {
      "id": 2,
@@ -44,8 +45,7 @@
     "desTitle": "Just Updated for 2022! Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead.",
     "desPart1": "This is the tutorial you've been looking for to become a modern web developer in 2022. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. Sounds too good to be true? Give me 5 minutes of your time to explain why I built this Web Development course and what is different here than thousands of other courses all over the internet:",
     "desPart2": "I update the course every month to make sure you learn the most up to date skills! There is no wasted time here. We won’t be using outdated technologies like PHP, Wordpress and JQuery. Although still useful, outdated technologies like the above are low paying and demands for them are decreasing. In this course, you will learn the specific technologies that are the most in demand in the industry right now. These include tools and technologies used by the biggest tech companies like Google, Facebook, Instagram, etc… It is geared specifically for people that want to learn employable skills in 2022.",
-    "desPart3": "After finishing this course, you will be able to apply for developer roles, get a promotion, or upgrade your job title as a developer and earn a higher salary. We won't be taking any shortcuts in this course. You are going to go from absolute zero: where you learn how the internet works. To mastery: where you build an image recognition app using a Machine Learning API (a subset of Artificial Intelligence) and all the other modern technologies that we learn in the course. Most students have commented how the projects in this course have impressed their interviewers and allowed them to get an offer.",
-    "highlights": [
+    "desPart3": "After finishing this course, you will be able to apply for developer roles, get a promotion, or upgrade your job title as a developer and earn a higher salary. We won't be taking any shortcuts in this course. You are going to go from absolute zero: where you learn how the internet works. To mastery: where you build an image recognition app using a Machine Learning API (a subset of Artificial Intelligence) and all the other modern technologies that we learn in the course. Most students have commented how the projects in this course have impressed their interviewers and allowed them to get an offer.","highlights": [
       "Skills that will allow you to apply for jobs like: Web Developer, Software Developer, Front End Developer, Javascript Developer, and Full Stack Developer",
       "Build 10+ real world Web Development projects you can show off",
       "Build your own full stack websites and applications.",
@@ -58,6 +58,7 @@
       "198 articles + resources",
       "Certificate of completion."
     ]
+  
   },
    {
     "id": 3,
@@ -89,6 +90,7 @@
       "You will get a certificate of completion that you can post on your LinkedIn profile to showcase your skills in Data Science to employers.",
       "All this comes with a 30-day money-back guarantee, so you can give a course a try risk-free!"
     ]
+  
   },
   {
     "id": 4,
@@ -119,6 +121,8 @@
       "Certificate of completion"
        
     ]
+    
+    
   },
    {
     "id": 5,
@@ -155,6 +159,7 @@
       "Certificate of completion"
        
     ]
+   
   },
    {
     "id": 6,
@@ -189,7 +194,10 @@
       "Certificate of completion"
        
     ]
+    
   }
+  
+  
  
   
   

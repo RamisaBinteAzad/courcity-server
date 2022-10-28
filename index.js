@@ -25,3 +25,4 @@ app.get("/singleCourse/:id", (req, res) => {
 app.listen(port, () => {
   console.log(" CourCity Server running on port", port);
 });
+ 
