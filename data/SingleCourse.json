@@ -1,5 +1,5 @@
 [
-  {
+   {
     "id": 1,
     "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
     "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
@@ -22,14 +22,44 @@
       "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
     ],
     "features": [
-      "300+ videos",
-      "Interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets",
+      "250+ videos",
+      "Slick, interactive slide decks custom made for each section",
+      "Detailed handouts and cheatsheets, the React textbook.",
       "Dozens of exercises, projects, and quizzes.",
-      "Free Webpack Mini Course!."
+      "One massive code-along project with nearly 20 different React components."
     ]
   },
   {
+     "id": 2,
+    "img": "https://i.postimg.cc/y84LD0B6/IMG-20220425-084635-552.jpg",
+    "title": "The Complete Web Developer in 2022: Zero to Mastery",
+    "ratings": 4.7,
+    "enrolledStudents": 196930,
+    "instructor": "Andrei Neagoie",
+    "about": "Learn to code and become a Web Developer in 2022 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+    "totalHours": 38.5,
+    "lectures": 399,
+    "type": "All Levels",
+    "price": 13.99,
+    "desTitle": "Just Updated for 2022! Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead.",
+    "desPart1": "This is the tutorial you've been looking for to become a modern web developer in 2022. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. Sounds too good to be true? Give me 5 minutes of your time to explain why I built this Web Development course and what is different here than thousands of other courses all over the internet:",
+    "desPart2": "I update the course every month to make sure you learn the most up to date skills! There is no wasted time here. We won’t be using outdated technologies like PHP, Wordpress and JQuery. Although still useful, outdated technologies like the above are low paying and demands for them are decreasing. In this course, you will learn the specific technologies that are the most in demand in the industry right now. These include tools and technologies used by the biggest tech companies like Google, Facebook, Instagram, etc… It is geared specifically for people that want to learn employable skills in 2022.",
+    "desPart3": "After finishing this course, you will be able to apply for developer roles, get a promotion, or upgrade your job title as a developer and earn a higher salary. We won't be taking any shortcuts in this course. You are going to go from absolute zero: where you learn how the internet works. To mastery: where you build an image recognition app using a Machine Learning API (a subset of Artificial Intelligence) and all the other modern technologies that we learn in the course. Most students have commented how the projects in this course have impressed their interviewers and allowed them to get an offer.",
+    "highlights": [
+      "Skills that will allow you to apply for jobs like: Web Developer, Software Developer, Front End Developer, Javascript Developer, and Full Stack Developer",
+      "Build 10+ real world Web Development projects you can show off",
+      "Build your own full stack websites and applications.",
+      "Become a professional Web Developer and get hired"
+       
+    ],
+    "features": [
+      "38.5 hours of video",
+      "1 coding exercise",
+      "198 articles + resources",
+      "Certificate of completion."
+    ]
+  },
+   {
     "id": 3,
     "img": "https://i.postimg.cc/1zx4h5pj/python-data-science.webp",
     "title": "One Week of Data Science in Python - New 2022!",
@@ -61,153 +91,109 @@
     ]
   },
   {
-     "id": 2,
-    "img": "https://i.postimg.cc/y84LD0B6/IMG-20220425-084635-552.jpg",
-    "title": "The Complete Web Developer in 2022: Zero to Mastery",
-    "ratings": 4.7,
-    "enrolledStudents": 196930,
-    "instructor": "Andrei Neagoie",
-    "about": "Learn to code and become a Web Developer in 2022 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
-    "totalHours": 38.5,
-    "lectures": 399,
-    "type": "All Levels",
+    "id": 4,
+    "img": "https://i.postimg.cc/K8Cf6Lph/programming-languages.jpg",
+    "title": "Computer Science 101 - Computers & Programming for Beginners",
+    "ratings": 4.5,
+    "enrolledStudents": 1021,
+    "instructor": "Timothy Meixner",
+    "about": "Understand the basic concepts behind Computers, Computer Science, Programming and Programming Languages",
+    "totalHours": 1,
+    "lectures": 36,
+    "type": "Beginner",
+    "price": 19.99,
+    "desTitle": "Computer Science is a topic that is becoming more and more relevant. Whether in college, school or at work. Computers and computer programs are everywhere in our everyday lives. We use software in smartphones, ATMs and even household appliances that we are able to control with our smartphones. A lot of people are confused and don't really know how all of this actually works",
+    "desPart1": "This compact course will take you from zero knowledge to having a solid understanding of the basic concepts of computer science and programming languages.To keep the course interesting and entertaining, we use a lot of examples to explain the individual topics. Amongst many other things we will learn about the importance of algorithms and how we can create one and why they are incredibly important. We will also learn about different approaches to programming such as imperative, declarative and object oriented programming. We're going to give you real world examples outside of code and computer programs to make sure everybody is able to understand what we are talking about.",
+    "desPart2": "At the end of this course you will have a fundamental understanding of the most important concepts of computer science and programming and can try your luck on an easy test exercise. The course also contains a kind of glossary where we've listed definitions and explanations for the most important terms so you always have them at your fingertips.",
+    "desPart3": "So if you always wanted to know how computers actually work, what a programmer does and how we are using computers to develop our own programs join us in this course!",
+    "highlights": [
+      "Understand how computers work",
+      "Understand basic concepts of Computer Science",
+      "Understand basic concepts of Programming and Programming Languages"
+       
+       
+    ],
+    "features": [
+      "1 hour of video.",
+      "21 articles + resources",
+      "Certificate of completion"
+       
+    ]
+  },
+   {
+    "id": 5,
+    "img": "https://i.postimg.cc/1zCmRm6S/sql-1615798112.jpg",
+    "title": "SQL: Data Analytics Applications in the Real World",
+    "ratings": 4.6,
+    "enrolledStudents": 279,
+    "instructor": "Data Civilisation",
+    "about": "Applying SQL / Data Analytics to real world scenarios, to see how it is leveraged by companiess",
+    "totalHours": 8.5,
+    "lectures": 22,
+    "type": "Intermediate",
     "price": 13.99,
-    "desTitle": "Just Updated for 2022! Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead.",
-    "desPart1": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.  This is the most polished React course online, and it's the only course that is based on REAL bootcamp curriculum that has been tried and tested in the classroom.",
-    "desPart2": "This course builds up concepts one at a time, cementing each new topic with an expertly designed exercise or project to test your knowledge. It includes a huge variety of beautiful exercises, projects, and games that we create together from scratch.  Sometimes we mix things up and give you a broken React app and ask you to fix it or optimize the code. Check out the promo video to see a couple of the course exercises. The course culminates in one huge capstone project, which is the largest project I've ever built for any of my online courses.  I'm really excited about it :) ",
-    "desPart3": "If you're new to frameworks, React is the ideal first framework to learn. It's easy enough to learn the basics, but it doesn't teach you bad habits. Even if you've already enrolled in another React course, this course is worth your time for the exercises and projects alone!  This curriculum is the product of two years of development and iteration in the bootcamp classroom.   All the lectures, exercises, and projects have been tweaked and improved based on real student feedback. You won't find anything else online as structured and polished as this course.",
+    "desTitle": "In this course, we will look at how data analytics can be applied in the real world on data which is utilised by different companies and businesses.We will be developing on the knowledge which we learnt in our ‘SQL & Power BI: Your Data Analytics & Visualisation Journey’ course and understand how it can be utilised to in the real world.",
+    "desPart1": "Upon enrolling, you’ll gain instant, lifetime access to all sections of the course, as well as the data files and scripts necessary for the exercises.Our approach is a stepped approach, meaning that you will keep gaining more and more building blocks as you work through the lectures. This means you will be equipped with the necessary knowledge to conduct data analytics and visualise your data to a professional standard.",
+    "desPart2": "At the end of this course you will have a fundamental understanding of the most important concepts of computer science and programming and can try your luck on an easy test exercise. The course also contains a kind of glossary where we've listed definitions and explanations for the most important terms so you always have them at your fingertips.",
+    "desPart3": "You’ll get access to all sections of the course that will teach you the fundamentals from the ground up, supported with over 8 hours of clear, structured content to start your data journey.In this course, you will dive deeper into SQL and understand the importance of how to define and utilise table relationships. You will also be introduced to new concepts and operations in SQL.",
     "highlights": [
-      "Learn React, from the very basics up to advanced topics like Next JS, React Router, Higher Order Components and Hooks and the Context API.",
-      "Build one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
-      "Learn the latest in React, including Hooks (my favorite part of React!).  We build a complete app using Hooks, including multiple custom hooks.",
-      "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
+      "Understanding the importance schemas and how they can be utilised when managing table relationships",
+      "Defining primary and foreign keys to highlight the relationship and ensure tables have a strong structural integrity",
+      "Understanding the factors associated to primary and foreign keys and how to manipulate them to ensure they satisfy the requirements of the table schema",
+      "Going through four unique case studies along with a bonus case study to enhance the understanding of how to utilise data analytic techniques in the real world",
+      "Quizzes to test your knowledge as you progress through the course!"
+
+       
+       
     ],
+    
+
+
     "features": [
-      "250+ videos",
-      "Slick, interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets, the React textbook.",
-      "Dozens of exercises, projects, and quizzes.",
-      "One massive code-along project with nearly 20 different React components."
+      "8.5 hours of video",
+      "2 articles + resources",
+      "Certificate of completion"
+       
     ]
   },
-  {
-    "id": 1,
-    "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
-    "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
-    "ratings": 4.5,
-    "enrolledStudents": 38288,
-    "instructor": "Colt Steele",
-    "about": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!.",
-    "totalHours": 20.5,
-    "lectures": 83,
-    "type": "Advance",
-    "price": 99.99,
-    "desTitle": "EXPANDED and UPDATED to include new sections on Next JS and Server-Side Rendering!",
-    "desPart1": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.  This is the most polished React course online, and it's the only course that is based on REAL bootcamp curriculum that has been tried and tested in the classroom.",
-    "desPart2": "This course builds up concepts one at a time, cementing each new topic with an expertly designed exercise or project to test your knowledge. It includes a huge variety of beautiful exercises, projects, and games that we create together from scratch.  Sometimes we mix things up and give you a broken React app and ask you to fix it or optimize the code. Check out the promo video to see a couple of the course exercises. The course culminates in one huge capstone project, which is the largest project I've ever built for any of my online courses.  I'm really excited about it :) ",
-    "desPart3": "If you're new to frameworks, React is the ideal first framework to learn. It's easy enough to learn the basics, but it doesn't teach you bad habits. Even if you've already enrolled in another React course, this course is worth your time for the exercises and projects alone!  This curriculum is the product of two years of development and iteration in the bootcamp classroom.   All the lectures, exercises, and projects have been tweaked and improved based on real student feedback. You won't find anything else online as structured and polished as this course.",
+   {
+    "id": 6,
+    "img": "https://i.postimg.cc/h47dY6Wv/Android-New-For-Developers-1024x512-updated.png",
+    "title": "Learn Google Maps SDK for Android. And also Create Distance Tracker App for tracking users location from a background.",
+    "ratings": 4.9,
+    "enrolledStudents": 11817,
+    "instructor": "Stefan Jovanovic",
+    "about": "Applying SQL / Data Analytics to real world scenarios, to see how it is leveraged by companiess",
+    "totalHours": 7.5,
+    "lectures": 66,
+    "type": "Intermediate",
+    "price": 18.99,
+    "desTitle": "Hello there and welcome to my course, In this course I'm going to teach you how to implement Google Maps SDK for Android using the power of Kotlin programming language.",
+    "desPart1": "We are going to start this course by introducing with Google Maps SDK, you will first learn how to connect your Android Studio project with Google Cloud Platform. After that we will go through the process of generating Debug and Release API Keys in order to enable Google Maps SDK in our project.",
+    "desPart2": "Then I'm going to show you how to enable/disable certain Map controls like compass, zoom in/out controls, my location button and more. Also how to enable/disable map gestures like scrolling zooming, tilting, rotating and so on.After that we will go through to process of choosing and applying different Map Types and Styles. You will learn how to apply dark and light map styles to your app.",
+    "desPart3": "You will learn how to animate Maps camera movement, how to Animate zoom levels, how to handle single click and long click events, how to place markers and drag them on the map. Then how to customize markers, and info windows as well.Also you'll learn how to add different shapes to your Google Map like Polyline, Polygons, Circles, Overlays and basically everything you'll even need!So bottom line, the level of knowledge you will get from this course, depends on how much effort you put into watching and practicing with this course.So what are you waiting for, let's get started Developers!",
     "highlights": [
-      "Learn React, from the very basics up to advanced topics like Next JS, React Router, Higher Order Components and Hooks and the Context API.",
-      "Build one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
-      "Learn the latest in React, including Hooks (my favorite part of React!).  We build a complete app using Hooks, including multiple custom hooks.",
-      "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
+      "Google Maps API,Google Maps SDK for Android,Connect the Project with Google Cloud Platform,Generate Maps SDK API Keys,Add Custom Map Style,Change Map Type,Add Map Padding",
+      "Calculate the Distance on the Map",
+      "Create Distance Tracker Application",
+      "My Location Layer on Google Maps,Locate your Device with One ClickGet Users Last Known ,Location",
+      "Create Notification"
+
+       
+       
     ],
-    "features": [
-      "250+ videos",
-      "Slick, interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets, the React textbook.",
-      "Dozens of exercises, projects, and quizzes.",
-      "One massive code-along project with nearly 20 different React components."
-    ]
-  },
-  {
-    "id": 1,
-    "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
-    "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
-    "ratings": 4.5,
-    "enrolledStudents": 38288,
-    "instructor": "Colt Steele",
-    "about": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!.",
-    "totalHours": 20.5,
-    "lectures": 83,
-    "type": "Advance",
-    "price": 99.99,
-    "desTitle": "EXPANDED and UPDATED to include new sections on Next JS and Server-Side Rendering!",
-    "desPart1": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.  This is the most polished React course online, and it's the only course that is based on REAL bootcamp curriculum that has been tried and tested in the classroom.",
-    "desPart2": "This course builds up concepts one at a time, cementing each new topic with an expertly designed exercise or project to test your knowledge. It includes a huge variety of beautiful exercises, projects, and games that we create together from scratch.  Sometimes we mix things up and give you a broken React app and ask you to fix it or optimize the code. Check out the promo video to see a couple of the course exercises. The course culminates in one huge capstone project, which is the largest project I've ever built for any of my online courses.  I'm really excited about it :) ",
-    "desPart3": "If you're new to frameworks, React is the ideal first framework to learn. It's easy enough to learn the basics, but it doesn't teach you bad habits. Even if you've already enrolled in another React course, this course is worth your time for the exercises and projects alone!  This curriculum is the product of two years of development and iteration in the bootcamp classroom.   All the lectures, exercises, and projects have been tweaked and improved based on real student feedback. You won't find anything else online as structured and polished as this course.",
-    "highlights": [
-      "Learn React, from the very basics up to advanced topics like Next JS, React Router, Higher Order Components and Hooks and the Context API.",
-      "Build one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
-      "Learn the latest in React, including Hooks (my favorite part of React!).  We build a complete app using Hooks, including multiple custom hooks.",
-      "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
-    ],
-    "features": [
-      "250+ videos",
-      "Slick, interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets, the React textbook.",
-      "Dozens of exercises, projects, and quizzes.",
-      "One massive code-along project with nearly 20 different React components."
-    ]
-  },
-  {
-    "id": 1,
-    "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
-    "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
-    "ratings": 4.5,
-    "enrolledStudents": 38288,
-    "instructor": "Colt Steele",
-    "about": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!.",
-    "totalHours": 20.5,
-    "lectures": 83,
-    "type": "Advance",
-    "price": 99.99,
-    "desTitle": "EXPANDED and UPDATED to include new sections on Next JS and Server-Side Rendering!",
-    "desPart1": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.  This is the most polished React course online, and it's the only course that is based on REAL bootcamp curriculum that has been tried and tested in the classroom.",
-    "desPart2": "This course builds up concepts one at a time, cementing each new topic with an expertly designed exercise or project to test your knowledge. It includes a huge variety of beautiful exercises, projects, and games that we create together from scratch.  Sometimes we mix things up and give you a broken React app and ask you to fix it or optimize the code. Check out the promo video to see a couple of the course exercises. The course culminates in one huge capstone project, which is the largest project I've ever built for any of my online courses.  I'm really excited about it :) ",
-    "desPart3": "If you're new to frameworks, React is the ideal first framework to learn. It's easy enough to learn the basics, but it doesn't teach you bad habits. Even if you've already enrolled in another React course, this course is worth your time for the exercises and projects alone!  This curriculum is the product of two years of development and iteration in the bootcamp classroom.   All the lectures, exercises, and projects have been tweaked and improved based on real student feedback. You won't find anything else online as structured and polished as this course.",
-    "highlights": [
-      "Learn React, from the very basics up to advanced topics like Next JS, React Router, Higher Order Components and Hooks and the Context API.",
-      "Build one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
-      "Learn the latest in React, including Hooks (my favorite part of React!).  We build a complete app using Hooks, including multiple custom hooks.",
-      "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
-    ],
-    "features": [
-      "250+ videos",
-      "Slick, interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets, the React textbook.",
-      "Dozens of exercises, projects, and quizzes.",
-      "One massive code-along project with nearly 20 different React components."
-    ]
-  },
-  {
-    "id": 1,
-    "img": "https://i.postimg.cc/1X0fJxgj/download.jpg",
-    "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router",
-    "ratings": 4.5,
-    "enrolledStudents": 38288,
-    "instructor": "Colt Steele",
-    "about": "Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!.",
-    "totalHours": 20.5,
-    "lectures": 83,
-    "type": "Advance",
-    "price": 99.99,
-    "desTitle": "EXPANDED and UPDATED to include new sections on Next JS and Server-Side Rendering!",
-    "desPart1": "Welcome to the best online resource for learning React! Published in April 2019, this course is brand new and covers the latest in React.  This course follows the exact same React curriculum my in-person bootcamp students follow in San Francisco, where students have gone on to get jobs at places like Google, Apple, Pinterest, & Linkedin.  This is the most polished React course online, and it's the only course that is based on REAL bootcamp curriculum that has been tried and tested in the classroom.",
-    "desPart2": "This course builds up concepts one at a time, cementing each new topic with an expertly designed exercise or project to test your knowledge. It includes a huge variety of beautiful exercises, projects, and games that we create together from scratch.  Sometimes we mix things up and give you a broken React app and ask you to fix it or optimize the code. Check out the promo video to see a couple of the course exercises. The course culminates in one huge capstone project, which is the largest project I've ever built for any of my online courses.  I'm really excited about it :) ",
-    "desPart3": "If you're new to frameworks, React is the ideal first framework to learn. It's easy enough to learn the basics, but it doesn't teach you bad habits. Even if you've already enrolled in another React course, this course is worth your time for the exercises and projects alone!  This curriculum is the product of two years of development and iteration in the bootcamp classroom.   All the lectures, exercises, and projects have been tweaked and improved based on real student feedback. You won't find anything else online as structured and polished as this course.",
-    "highlights": [
-      "Learn React, from the very basics up to advanced topics like Next JS, React Router, Higher Order Components and Hooks and the Context API.",
-      "Build one massive capstone application, complete with drag & drop, animations, route transitions, complex form validations, and more.",
-      "Learn the latest in React, including Hooks (my favorite part of React!).  We build a complete app using Hooks, including multiple custom hooks.",
-      "You get tons of detailed handouts and cheatsheets that you can refer back to whenever you need to.   Think of this as a React textbook you can study at any point if you get tired of videos"
-    ],
-    "features": [
-      "250+ videos",
-      "Slick, interactive slide decks custom made for each section",
-      "Detailed handouts and cheatsheets, the React textbook.",
-      "Dozens of exercises, projects, and quizzes.",
-      "One massive code-along project with nearly 20 different React components."
+    
+ "features": [
+      "7.5 hours of video",
+      "1 article or resource",
+      "Certificate of completion"
+       
     ]
   }
+ 
+  
+  
+   
+ 
+   
 ]
